@@ -57,7 +57,7 @@
   {
     "id": "btsow",
     "name": "BTSOW",
-    "proxy": false,
+    "proxy": true,
     "url": "https://btsow.rest",
     "paths": {
       "preset": "/search/{k}/page/{p}"
